@@ -137,4 +137,7 @@
     "turbo": "^1.1.4",
     "typechain": "^6.1.0"
   }
+  "optionalDependencies": {
+    "fsevents": "^2.3.2"
+}
 }
